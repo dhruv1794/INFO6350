@@ -31,7 +31,8 @@
  - Full Time ( onCreate(), onDestroy())
  - Visible ( onStart(), onStop()) -
  - Foreground ( onResume() , onPause())
-￼
+![image](https://user-images.githubusercontent.com/24921107/213089194-fd9ccc75-f26c-42a6-b239-782830568303.png)
+
 
 Notes: Bubbles are different states. 
 ---
